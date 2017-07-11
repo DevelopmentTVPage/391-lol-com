@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "lol.com"
+baseURL = "https:\/\/lol.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+cookieDomain = "lol.com"
+
+[params]
+loginId = "1758904"
+subfolder = ""
